@@ -1,7 +1,10 @@
 # Testdata for Afp Offentlig Livsvarig
 Følgende personer kan kontaktes om test:
+
 Oppretting av nye testidenter og TP-forhold på disse: randi.just@nav.no
+
 Se også slackkanal #afp-offentlig-livsvarig-apier for mer informasjon
+
 Testidenter for å teste endepunktene NAV tilbyr til samhandlerne: Testdata er hentet fra Tenor via Dolly. 
 All test skjer mot APIer som er gjort tilgjengelig i NAVs syntetiske testmiljø, Q2
 
