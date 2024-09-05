@@ -35,7 +35,7 @@ Identer som kan benyttes
 [Har uføresøknad under behandling](https://navikt.github.io/pensjon-ekstern-api/api/uforetrygd/Uforetrygd.html#/default/post_harUforesoknadUnderBehandling)
 Identer som kan benyttes
 * 29826096681
-  * TP-forhold [3010, 3200, 4096]
+  * TP-forhold [3010, 3200, 3820, 4096]
 
 ## AFP Privat
 [Mottar AFP Privat](https://navikt.github.io/pensjon-ekstern-api/api/afpprivat/AfpPrivat.html#/default/mottarafpprivat)
