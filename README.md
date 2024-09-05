@@ -25,6 +25,7 @@ Identer som kan benyttes
 Identer som kan benyttes
 * 24886499414
 * 29816095474
+* 24846399433
   * TP-forhold [3010, 3200, 3820, 4096]
 
 [Har mottatt uføre etter fylte 62 år](https://navikt.github.io/pensjon-ekstern-api/api/uforetrygd/Uforetrygd.html#/default/harMottattUforeEtter62)
