@@ -1,7 +1,7 @@
 # Testdata for Afp Offentlig Livsvarig
 Følgende personer kan kontaktes om test:
 
-Oppretting av nye testidenter og TP-forhold på disse: randi.just@nav.no
+Oppretting av nye testidenter: randi.just@nav.no
 
 Se også slackkanal #afp-offentlig-livsvarig-apier for mer informasjon
 
