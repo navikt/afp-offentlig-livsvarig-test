@@ -17,7 +17,7 @@ Identer som kan benyttes
 ## AAP
 [Har mottat AAP](https://aap-api.ekstern.dev.nav.no/swagger)
 Identer som kan benyttes
-* 29916396188
+* 29916396188, 05816597724
   * TP-forhold [3010, 3200, 4096]
 
 ## Uføre
