@@ -11,7 +11,7 @@ All test skjer mot APIer som er gjort tilgjengelig i NAVs syntetiske testmiljø,
 ## Sykepenger
 [Har mottatt sykepenger](https://spapi.ekstern.dev.nav.no/swagger)
 Identer som kan benyttes
-* 28886195305, 15816297580, 12856399999, 13846399423
+* 12856399999, 13846399423
   * TP-forhold [3010, 3200, 4096]
 
 ## AAP
@@ -23,8 +23,6 @@ Identer som kan benyttes
 ## Uføre
 [Har løpende vedtak om uføre](https://navikt.github.io/pensjon-ekstern-api/api/uforetrygd/Uforetrygd.html#/default/harLopendeVedtakOmUfore)
 Identer som kan benyttes
-* 24886499414
-* 29816095474
 * 24846399433
   * TP-forhold [3010, 3200, 3820, 4096]
 
