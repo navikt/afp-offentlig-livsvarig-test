@@ -28,7 +28,7 @@ Identer som kan benyttes
 
 [Har mottatt uføre etter fylte 62 år](https://navikt.github.io/pensjon-ekstern-api/api/uforetrygd/Uforetrygd.html#/default/harMottattUforeEtter62)
 Identer som kan benyttes
-* 
+* Under arbeid
   * TP-forhold [3010, 3200, 4096]
 
 [Har uføresøknad under behandling](https://navikt.github.io/pensjon-ekstern-api/api/uforetrygd/Uforetrygd.html#/default/post_harUforesoknadUnderBehandling)
