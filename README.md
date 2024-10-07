@@ -13,6 +13,7 @@ All test skjer mot APIer som er gjort tilgjengelig i NAVs syntetiske testmiljø,
 Identer som kan benyttes
 * 12856399999, 13846399423
   * TP-forhold [3010, 3200, 4096]
+  * Arbeidsforhold organisasjon 896929119,som brukes i kallet.
 
 ## AAP
 [Har mottat AAP](https://aap-api.ekstern.dev.nav.no/swagger)
